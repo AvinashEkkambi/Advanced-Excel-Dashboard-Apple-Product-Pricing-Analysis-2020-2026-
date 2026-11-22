@@ -1,0 +1,2 @@
+# Advanced-Excel-Dashboard-Apple-Product-Pricing-Analysis-2020-2026-
+This Advanced Excel project presents an interactive dashboard titled “Apple Product Pricing Analysis 2020–2026,” designed to analyse product performance, customer engagement, pricing, discounts, sales events, and inventory. It combines key performance indicators, slicers, and charts to provide a view of the data and support comparisons.
